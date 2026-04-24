@@ -1,3 +1,5 @@
+<img width="841" height="671" alt="Screen Shot 2026-04-24 at 20 28 41" src="https://github.com/user-attachments/assets/4df4be7d-1698-4adb-9b6b-fe0f8f1b53e2" />
+<img width="1274" height="655" alt="Screen Shot 2026-04-24 at 20 28 16" src="https://github.com/user-attachments/assets/ffecfa18-fe85-4e25-b66b-3b6835c9f5d8" />
 Medicare - Hospital Management & Booking Portal
 A modern, responsive Single Page Application (SPA) built with Vanilla JavaScript. This project serves as a comprehensive healthcare platform where patients can explore medical services, meet specialist doctors, and manage appointments.
 
